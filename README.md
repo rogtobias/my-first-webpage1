@@ -1,16 +1,16 @@
-#Initial HTML Page
-####With Bonus Page About a Contact
+# Initial HTML Page
+#### With Bonus Page About a Cat
 
-###Features
+### Features
 * Useful lists
 * Correctly formatted HTML code
 * Working links to fine sites like [Google.com](http://google.com)
 * Other information, technically
 
-###Technologies used
+### Technologies used
 * HTML
 
-###Legal
+### Legal
 
 * For use under the MIT License
 
