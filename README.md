@@ -1,5 +1,5 @@
 # Initial HTML Page
-#### With Bonus Page About a Cat
+#### About a webpage
 
 ### Features
 * Useful lists
